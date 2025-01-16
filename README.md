@@ -1,2 +1,2 @@
-# DM
-DM(Django_Memo)
+# DM(Django_Memo)
+Django(PY) + React(JS) + SQLite 학습 REPO
